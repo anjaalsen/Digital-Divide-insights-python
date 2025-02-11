@@ -13,8 +13,8 @@ The dataset consists of 20 individual datasets from the World Bank Open Data pla
 This data spans multiple countries and regions over time, enabling longitudinal and comparative analysis.
 
 In addition the following data was used: 
-- **GeoJSON Source:** Core Geo Countries Dataset, provided by **Natural Earth**. Retrieved from [DataHub](https://datahub.io/core/geo-countries#data-files) on 04.01.2025.  
-- This dataset is licensed under the **Open Data Commons Public Domain Dedication and License (PDDL) v1.0**. More details: [Open Data Commons PDDL](https://opendatacommons.org/licenses/pddl/1-0/).
+- GeoJSON Source: Core Geo Countries Dataset, provided by Natural Earth. Retrieved from [DataHub](https://datahub.io/core/geo-countries#data-files) on 04.01.2025.  
+- This dataset is licensed under the Open Data Commons Public Domain Dedication and License (PDDL) v1.0. More details: [Open Data Commons PDDL](https://opendatacommons.org/licenses/pddl/1-0/).
 
 ## Research Questions
 • How does GDP per capita influence internet adoption?
