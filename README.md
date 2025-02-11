@@ -1,4 +1,4 @@
-# digital-divide-insights-python
+# Digital-Divide-insights-python
 
 ## Project Overview
 This project explores global internet adoption and its relationship with economic factors. Using Python for exploratory analysis and Tableau for visualization, the study identifies patterns in digital access, examines economic influences, and segments countries based on internet penetration and GDP.
