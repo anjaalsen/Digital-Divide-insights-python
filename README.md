@@ -29,8 +29,8 @@ Investigated internet usage patterns across regions Identified correlations betw
 Linear Regression → Tested GDP’s role in internet adoption, confirming a positive relationship but with limitations Clustering Analysis (Unsupervised ML) → Grouped countries into four clusters based on GDP, internet users, and education Time Series Analysis → Examined trends in internet adoption over time, revealing a gradual increase with a plateau effect
 
 ## Key Findings
-• GDP & Internet Access → Higher GDP generally leads to increased internet penetration, but exceptions exist due to policy, infrastructure, and market differences.
-• Clustering Insights → Countries fall into four digital access groups, highlighting economic and regional disparities.
+• GDP & Internet Access → Higher GDP generally leads to increased internet penetration, but exceptions exist due to policy, infrastructure, and market differences.  
+• Clustering Insights → Countries fall into four digital access groups, highlighting economic and regional disparities.  
 • Limitations → GDP per capita does not fully explain internet adoption—factors like policy frameworks, infrastructure, and urban-rural divides play a role.
 
 ## Data Cleaning Procedures
