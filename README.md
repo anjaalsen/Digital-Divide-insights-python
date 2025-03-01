@@ -32,21 +32,21 @@ Time Series Analysis → Examined trends in internet adoption over time, reveali
 
 ## Key Findings
 • GDP & Internet Access → Higher GDP generally leads to increased internet penetration, but exceptions exist due to policy, infrastructure, and market differences.  
-• Clustering Insights → Countries fall into four digital access groups, highlighting economic and regional disparities.  
+• Clustering Insights → Countries fall into four digital access groups, highlighting economic and regional disparities.    
 • Limitations → GDP per capita does not fully explain internet adoption—factors like policy frameworks, infrastructure, and urban-rural divides play a role.
 
 ## Data Cleaning Procedures
-• Merged 20 World Bank datasets
-• Standardized country names and codes
-• Handled missing values through interpolation & regional imputation
-• Normalized economic and internet adoption metrics
+• Merged 20 World Bank datasets  
+• Standardized country names and codes  
+• Handled missing values through interpolation & regional imputation  
+• Normalized economic and internet adoption metrics  
 • Filtered outliers and inconsistencies
 
 ## Tableau Dashboard
 The final results are presented in an interactive Tableau dashboard, offering a structured view of digital access trends, economic influences, and clustering results. View the Tableau Dashboard (https://public.tableau.com/app/profile/anja.alsen/viz/250210_Ex6_7_Story/Story1?publish=yes)
 
-This repository contains:
-	• Python scripts for data cleaning, EDA, regression, clustering, and time-series analysis
-	• Tableau workbook for data visualization
+This repository contains:  
+	• Python scripts for data cleaning, EDA, regression, clustering, and time-series analysis  
+	• Tableau workbook for data visualization  
 This project offers a data-driven foundation for understanding and addressing global digital inequality.
 
