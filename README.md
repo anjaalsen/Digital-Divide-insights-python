@@ -26,7 +26,9 @@ In addition the following data was used:
 1. Exploratory Data Analysis (EDA)
 Investigated internet usage patterns across regions Identified correlations between internet adoption and economic factors Created visualizations in Python to uncover trends
 2. Statistical & Machine Learning Techniques
-Linear Regression → Tested GDP’s role in internet adoption, confirming a positive relationship but with limitations Clustering Analysis (Unsupervised ML) → Grouped countries into four clusters based on GDP, internet users, and education Time Series Analysis → Examined trends in internet adoption over time, revealing a gradual increase with a plateau effect
+Linear Regression → Tested GDP’s role in internet adoption, confirming a positive relationship but with limitations
+Clustering Analysis (Unsupervised ML) → Grouped countries into four clusters based on GDP, internet users, and education
+Time Series Analysis → Examined trends in internet adoption over time, revealing a gradual increase with a plateau effect
 
 ## Key Findings
 • GDP & Internet Access → Higher GDP generally leads to increased internet penetration, but exceptions exist due to policy, infrastructure, and market differences.  
