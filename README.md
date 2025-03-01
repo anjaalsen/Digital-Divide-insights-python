@@ -4,12 +4,12 @@
 This project explores global internet adoption and its relationship with economic factors. Using Python for exploratory analysis and Tableau for visualization, the study identifies patterns in digital access, examines economic influences, and segments countries based on internet penetration and GDP.
 
 ## Data Source
-The dataset consists of 20 individual datasets from the World Bank Open Data platform, accessed on 04.01.2025. It includes key global development indicators such as:
-• Economic performance (GDP per capita),
-• Demographics (population breakdown),
-• Education (literacy rates, secondary education levels),
-• Infrastructure (electricity access),
-• Digital Access (internet users, broadband subscriptions)
+The dataset consists of 20 individual datasets from the World Bank Open Data platform, accessed on 04.01.2025. It includes key global development indicators such as:  
+• Economic performance (GDP per capita),  
+• Demographics (population breakdown),  
+• Education (literacy rates, secondary education levels),  
+• Infrastructure (electricity access),  
+• Digital Access (internet users, broadband subscriptions)  
 This data spans multiple countries and regions over time, enabling longitudinal and comparative analysis.
 
 In addition the following data was used: 
@@ -26,8 +26,8 @@ In addition the following data was used:
 1. Exploratory Data Analysis (EDA)
 Investigated internet usage patterns across regions Identified correlations between internet adoption and economic factors Created visualizations in Python to uncover trends
 2. Statistical & Machine Learning Techniques
-Linear Regression → Tested GDP’s role in internet adoption, confirming a positive relationship but with limitations
-Clustering Analysis (Unsupervised ML) → Grouped countries into four clusters based on GDP, internet users, and education
+Linear Regression → Tested GDP’s role in internet adoption, confirming a positive relationship but with limitations  
+Clustering Analysis (Unsupervised ML) → Grouped countries into four clusters based on GDP, internet users, and education  
 Time Series Analysis → Examined trends in internet adoption over time, revealing a gradual increase with a plateau effect
 
 ## Key Findings
