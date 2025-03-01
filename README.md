@@ -17,9 +17,9 @@ In addition the following data was used:
 - This dataset is licensed under the Open Data Commons Public Domain Dedication and License (PDDL) v1.0. More details: [Open Data Commons PDDL](https://opendatacommons.org/licenses/pddl/1-0/).
 
 ## Research Questions
-• How does GDP per capita influence internet adoption?
-• What regional differences exist in digital access?
-• Can economic indicators predict internet growth?
+• How does GDP per capita influence internet adoption?  
+• What regional differences exist in digital access?  
+• Can economic indicators predict internet growth?  
 • How can countries be grouped based on digital access and economic factors?
 
 ## Analytical Approach
