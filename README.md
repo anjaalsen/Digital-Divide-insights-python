@@ -43,7 +43,7 @@ Time Series Analysis → Examined trends in internet adoption over time, reveali
 • Filtered outliers and inconsistencies
 
 ## Tableau Dashboard
-The final results are presented in an interactive Tableau dashboard, offering a structured view of digital access trends, economic influences, and clustering results. View the [Tableau Dashboard] (https://public.tableau.com/app/profile/anja.alsen/viz/250210_Ex6_7_Story/Story1?publish=yes)
+The final results are presented in an interactive Tableau dashboard, offering a structured view of digital access trends, economic influences, and clustering results. View the [Tableau Dashboard](https://public.tableau.com/app/profile/anja.alsen/viz/250210_Ex6_7_Story/Story1?publish=yes)
 
 This repository contains:  
 	• Python scripts for data cleaning, EDA, regression, clustering, and time-series analysis  
